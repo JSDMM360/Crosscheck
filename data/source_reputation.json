@@ -1,0 +1,21 @@
+{
+  "_comment": "Editable seed lists. Credibility lists reflect their curators' judgement: review and extend them for your own use.",
+  "credible": [
+    "reuters.com", "apnews.com", "bbc.com", "bbc.co.uk", "thehindu.com", "indianexpress.com",
+    "hindustantimes.com", "ndtv.com", "timesofindia.indiatimes.com", "livemint.com", "pib.gov.in",
+    "nytimes.com", "washingtonpost.com", "theguardian.com", "npr.org", "pbs.org", "aljazeera.com",
+    "dw.com", "france24.com", "bloomberg.com", "ft.com", "economist.com", "nature.com", "who.int",
+    "scroll.in", "thewire.in", "deccanherald.com", "theprint.in", "factcheck.org", "snopes.com",
+    "politifact.com", "altnews.in", "boomlive.in"
+  ],
+  "satire": [
+    "theonion.com", "babylonbee.com", "clickhole.com", "thebeaverton.com", "newsthump.com",
+    "thedailymash.co.uk", "waterfordwhispersnews.com", "duffelblog.com", "reductress.com", "faking-news.com"
+  ],
+  "unreliable": [],
+  "ad_domains": [
+    "doubleclick.net", "googlesyndication.com", "taboola.com", "outbrain.com", "adnxs.com",
+    "criteo.com", "revcontent.com", "mgid.com", "popads.net", "propellerads.com"
+  ],
+  "suspicious_tlds": ["xyz", "top", "click", "buzz", "icu", "work", "gq", "tk", "ml", "cf", "ga", "rest", "cyou"]
+}
